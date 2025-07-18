@@ -9,9 +9,27 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Bishakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishakhakapur&show_icons=true&theme=radical)
+## 🚀 Quick Stats
+
+<table>
+  <tr>
+    <td>
+  
+  ### Bishakha Kapoor's GitHub Stats  
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishakhakapur&show_icons=true&theme=radical)  
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Bishakhakapur&theme=radical)  
+
+
+</td>
+  </tr>
+</table>
+
+---
+
+![Bishakha's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bishakhakapur&theme=github_dark)
 
 ---
 
