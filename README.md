@@ -33,6 +33,22 @@
 
 ---
 
+## 📝 Certifications
+
+### 📌 Deloitte – Data Analytics Job Simulation  
+<a href="https://drive.google.com/file/d/1iV2elatBdRwXToAtDcu0RdtMtButhlSh/view?usp=drivesdk" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=1iV2elatBdRwXToAtDcu0RdtMtButhlSh" width="500"/>
+</a>
+
+---
+
+### 📌 IBM – Data Visualization with Python  
+<a href="https://drive.google.com/file/d/1hsxZEi-JGZR24dkFEbVKRMWul7FsV4fI/view?usp=drivesdk" target="_blank">
+  <img src="https://drive.google.com/uc?export=view&id=1hsxZEi-JGZR24dkFEbVKRMWul7FsV4fI" width="500"/>
+</a>
+
+---
+
 ### 💻 Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
