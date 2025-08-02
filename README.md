@@ -9,6 +9,16 @@
 
 ---
 
+### 💻 Tech Stack
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+----
 
 ## 🚀 Quick Stats
 
@@ -33,27 +43,24 @@
 
 ---
 
-## 📝 Certifications
+## 📜 Certifications
 
-### 📌 Deloitte – Data Analytics Job Simulation  
-<a href="https://drive.google.com/file/d/1iV2elatBdRwXToAtDcu0RdtMtButhlSh/view?usp=drivesdk" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=1iV2elatBdRwXToAtDcu0RdtMtButhlSh" width="500"/>
-</a>
-
----
-
-### 📌 IBM – Data Visualization with Python  
-<a href="https://drive.google.com/file/d/1hsxZEi-JGZR24dkFEbVKRMWul7FsV4fI/view?usp=drivesdk" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=1hsxZEi-JGZR24dkFEbVKRMWul7FsV4fI" width="500"/>
-</a>
+### 📌 Certification 1  
+[🔗 View Certificate](https://drive.google.com/file/d/1aVaLi0aQs8yzVRKuhCSm3zNbY5ek4YnA/view)  
+<img src="https://drive.google.com/uc?export=view&id=1aVaLi0aQs8yzVRKuhCSm3zNbY5ek4YnA" width="600"/>
 
 ---
 
-### 💻 Tech Stack
+### 📌 Certification 2  
+[🔗 View Certificate](https://drive.google.com/file/d/1aY_YsbZNql0XmGp-QhVWQRG6fa6ZtdTn/view)  
+<img src="https://drive.google.com/uc?export=view&id=1aY_YsbZNql0XmGp-QhVWQRG6fa6ZtdTn" width="600"/>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+---
+
+### 📌 Certification 3  
+[🔗 View Certificate](https://drive.google.com/file/d/1aX-NXtHfhLMw-QKfNIZZn37sYbfyL5E0/view)  
+<img src="https://drive.google.com/uc?export=view&id=1aX-NXtHfhLMw-QKfNIZZn37sYbfyL5E0" width="600"/>
+
+---
+
+
