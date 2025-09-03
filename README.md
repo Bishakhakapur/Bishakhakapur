@@ -64,8 +64,8 @@
 ---
 
 ### 📌 Certification 4
-[🔗 View Certificate](https://drive.google.com/file/d/1ob7EDlIbODLhhcFPQvCJplrZ50PtYQBU/view?usp=drivesdk)
-<img src="https://drive.google.com/uc?export=view&id=1ob7EDlIbODLhhcFPQvCJplrZ50PtYQBU/view?usp=drivesdk" Width="600"/>
+[🔗 View Certificate](https://github.com/Bishakhakapur/Bishakhakapur/blob/main/NaukriCampus_Certificate_Participation.pdf)
+
 
 ---
 
