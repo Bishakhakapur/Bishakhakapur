@@ -63,9 +63,15 @@
 
 ---
 
-### 📌 Certification 4
-[🔗 View Certificate](https://github.com/Bishakhakapur/Bishakhakapur/blob/main/NaukriCampus_Certificate_Participation.pdf)
+### 📌 Certification 4  
+[🔗 View Certificate](https://github.com/Bishakhakapur/Bishakhakapur/blob/main/geeksforgeeks_certificate.jpg)  
+<img src="https://github.com/Bishakhakapur/Bishakhakapur/blob/main/geeksforgeeks_certificate.jpg?raw=true" width="600"/>
 
+---
+
+### 📌 Certification 5
+[🔗 View Certificate](https://github.com/Bishakhakapur/Bishakhakapur/blob/main/NaukriCampus_Certificate_Participation.pdf)
+<img src="https://github.com/Bishakhakapur/Bishakhakapur/blob/main/NaukriCampus_Certificate_Participation.pdf?raw=true" width="600"/>
 
 ---
 
